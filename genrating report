@@ -1,0 +1,1 @@
+python main.py --report my_report.html --template report_template.html

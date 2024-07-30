@@ -1,0 +1,1 @@
+python main.py --hash example_file.txt --hash-type sha256

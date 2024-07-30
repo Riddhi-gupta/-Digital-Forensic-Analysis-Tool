@@ -1,0 +1,1 @@
+python main.py --acquire-disk /dev/sda --image-output my_disk_image.dd

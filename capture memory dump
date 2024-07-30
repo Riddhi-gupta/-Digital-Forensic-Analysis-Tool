@@ -1,0 +1,2 @@
+python main.py --acquire-memory --memory-output my_memory_dump.bin
+
