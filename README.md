@@ -1,4 +1,4 @@
-# -Digital-Forensic-Analysis-Tool
+# Digital Forensic Analysis Tool
 # Introduction
 In today's digital age, the proliferation of electronic devices and the internet has led to an exponential increase in the volume of digital data. This surge has brought about a growing need for sophisticated tools and techniques in digital forensics, the field dedicated to uncovering, preserving, and analyzing digital evidence. Digital forensic analysis plays a crucial role in investigating cybercrimes, data breaches, intellectual property theft, and a variety of other digital-related offenses.
 My project, titled "Digital Forensic Analysis Tool," aims to provide a comprehensive solution for forensic investigators to effectively gather, analyze, and report on digital evidence. The tool is designed to cater to various aspects of digital forensics, including data acquisition, file system analysis, artifact extraction, and detailed reporting. By offering a user-friendly interface and robust backend processing capabilities, the tool simplifies complex forensic processes, making them accessible to both seasoned professionals and newcomers to the field.
