@@ -8,6 +8,7 @@ The project's scope encompasses critical functionalities such as disk imaging, m
 
 # Project Structure
 ├── Codebase/
+
 │   ├── src/
 │   │   ├── main.py
 │   │   ├── acquisition.py
@@ -15,16 +16,19 @@ The project's scope encompasses critical functionalities such as disk imaging, m
 │   │   ├── reporting.py
 │   │   └── utils.py
 │   │
+
 │   ├── tests/
 │   │   ├── test_acquisition.py
 │   │   ├── test_analysis.py
 │   │   ├── test_reporting.py
 │   │   └── test_utils.py
 │   │
+
 │   ├── examples/
 │   │   ├── sample_data/
 │   │   └── example_usage.py
 │   │
+
 │   ├── requirements.txt
 │   ├── README.md
 │   └── LICENSE
